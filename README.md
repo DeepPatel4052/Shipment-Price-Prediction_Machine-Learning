@@ -15,7 +15,7 @@ The logistics industry is a significant contributor to the global economy, facil
 # Main Goal:
 
 The main goal is to predict the shipment pricing based on the available
-factors in the dataset.
+features in the dataset.
 
 # Approach:
 
